@@ -1,2 +1,2 @@
 # FastPython
-Notebook from Journal Club Talk on Jan 25th 2022.
+Notebook from PGR training on 4th Feb 2026.
